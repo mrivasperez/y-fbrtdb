@@ -1,0 +1,19 @@
+{
+  "name": "y-fbrtdb",
+  "version": "0.0.1",
+  "description": "A database and connection provider for Yjs using Firebase Realtime Database.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrivasperez/y-fbrtdb.git"
+  },
+  "author": "mrivasperez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrivasperez/y-fbrtdb/issues"
+  },
+  "homepage": "https://github.com/mrivasperez/y-fbrtdb#readme"
+}
