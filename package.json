@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/mrivasperez/y-fbrtdb/issues"
   },
-  "homepage": "https://github.com/mrivasperez/y-fbrtdb#readme"
+  "homepage": "https://github.com/mrivasperez/y-fbrtdb#readme",
+  "dependencies": {
+    "firebase": "^10.14.0",
+    "idb-keyval": "^6.2.1",
+    "simple-peer-light": "^9.10.0",
+    "y-protocols": "^1.0.6",
+    "yjs": "^13.6.19"
+  },
+  "devDependencies": {
+    "@types/simple-peer": "^9.11.8",
+    "typescript": "^5.6.2"
+  }
 }
